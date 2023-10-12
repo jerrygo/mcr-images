@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/windows/servercore:ltsc2022
+docker pull mcr.microsoft.com/windows/servercore:ltsc2022
